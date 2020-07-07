@@ -13,3 +13,12 @@ The famous Simon Game using HTML, CSS and JS. Follow The link - https://m10hit.g
 5. In the next level, if the yellow button is blinked, the player needs to press red, followed by green, followed by yellow
 6. The difficulty of the game increases as the level of the game increases as the player needs to remember the sequence of the colors
 7. If the player fails to remeber the sequence, the game is over.
+
+# Screeenshot
+![](images/initial-screen.png)
+
+
+![](images/game-start.png)
+
+
+![](images/game-over.png)

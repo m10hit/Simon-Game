@@ -1,5 +1,5 @@
 # Simon-Game
-The famous Simon Game using HTML, CSS and jQuery. Follow The link - https://m10hit.github.io/Simon-Game/
+The famous Simon Game using HTML, CSS and jQuery.
 
 # Idea
 1. To build and develop an advanced game which is easy to play using jQuery.
